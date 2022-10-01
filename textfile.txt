@@ -1,2 +1,2 @@
 Text file with some text in it 
-This is a file with some text in it! 
+I removed the second line! 
